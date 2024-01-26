@@ -1,0 +1,17 @@
+C:\Users\Halley\Documents\CodeStack\Level2\Assignments\allForOneEndpoints\bin\Release\net7.0\publish\allForOneEndpoints.exe
+C:\Users\Halley\Documents\CodeStack\Level2\Assignments\allForOneEndpoints\bin\Release\net7.0\publish\publish\web.config
+C:\Users\Halley\Documents\CodeStack\Level2\Assignments\allForOneEndpoints\bin\Release\net7.0\publish\appsettings.Development.json
+C:\Users\Halley\Documents\CodeStack\Level2\Assignments\allForOneEndpoints\bin\Release\net7.0\publish\appsettings.json
+C:\Users\Halley\Documents\CodeStack\Level2\Assignments\allForOneEndpoints\bin\Release\net7.0\publish\publish\allForOneEndpoints.deps.json
+C:\Users\Halley\Documents\CodeStack\Level2\Assignments\allForOneEndpoints\bin\Release\net7.0\publish\publish\allForOneEndpoints.runtimeconfig.json
+C:\Users\Halley\Documents\CodeStack\Level2\Assignments\allForOneEndpoints\bin\Release\net7.0\publish\publish\appsettings.Development.json
+C:\Users\Halley\Documents\CodeStack\Level2\Assignments\allForOneEndpoints\bin\Release\net7.0\publish\publish\appsettings.json
+C:\Users\Halley\Documents\CodeStack\Level2\Assignments\allForOneEndpoints\bin\Release\net7.0\publish\allForOneEndpoints.dll
+C:\Users\Halley\Documents\CodeStack\Level2\Assignments\allForOneEndpoints\bin\Release\net7.0\publish\allForOneEndpoints.deps.json
+C:\Users\Halley\Documents\CodeStack\Level2\Assignments\allForOneEndpoints\bin\Release\net7.0\publish\allForOneEndpoints.runtimeconfig.json
+C:\Users\Halley\Documents\CodeStack\Level2\Assignments\allForOneEndpoints\bin\Release\net7.0\publish\allForOneEndpoints.pdb
+C:\Users\Halley\Documents\CodeStack\Level2\Assignments\allForOneEndpoints\bin\Release\net7.0\publish\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Halley\Documents\CodeStack\Level2\Assignments\allForOneEndpoints\bin\Release\net7.0\publish\Microsoft.OpenApi.dll
+C:\Users\Halley\Documents\CodeStack\Level2\Assignments\allForOneEndpoints\bin\Release\net7.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Halley\Documents\CodeStack\Level2\Assignments\allForOneEndpoints\bin\Release\net7.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Halley\Documents\CodeStack\Level2\Assignments\allForOneEndpoints\bin\Release\net7.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
